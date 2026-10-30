@@ -1,3 +1,10 @@
+# Release notes 2.0.1:
+Nu compatible met KNBSB v2.0.1
+
+### Nieuw:
+Synchronisatie maakt nu per team ook een uitslagen en een stand tab aan
+
+
 # Release notes 0.5.0:
 - In deze versie is het mogelijk om meerdere teams te configureren
 - Maak via de main view sub views voor ieder team aam via de synchronisatie knop
